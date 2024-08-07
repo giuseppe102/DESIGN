@@ -4740,3 +4740,9 @@ td:last-child {
 .contact-list li {
 	padding-left: 0;
 }
+
+.logo{
+	border-radius: 40px;
+	height: 80px;
+	width: ;
+}
