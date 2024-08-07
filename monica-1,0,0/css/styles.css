@@ -4746,3 +4746,14 @@ td:last-child {
 	height: 80px;
 	width: ;
 }
+
+.foto{
+	border-radius: 80px;
+	width: 20vh;
+	height: 40vh;
+}
+
+.card{
+	width: 20vh;
+	height: 80vh;
+}
