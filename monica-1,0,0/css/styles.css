@@ -4757,3 +4757,9 @@ td:last-child {
 	width: 20vh;
 	height: 80vh;
 }
+
+.icone{
+	border-radius:60px;
+	width: 20px;
+	color: #000000;
+}
