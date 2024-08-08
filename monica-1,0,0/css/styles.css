@@ -4748,7 +4748,9 @@ td:last-child {
 .logo{
 	border-radius: 100px;
 	height: 80px;
-	 
+	font-size: 20px;
+	color: #ffffff;
+	padding-top: 100px;
 }
 
 .foto{
